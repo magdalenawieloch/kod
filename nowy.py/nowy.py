@@ -1,0 +1,1 @@
+print("pomysł na nowy kod")
