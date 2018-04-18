@@ -1,2 +1,5 @@
 print("Hello World")
-print("to jest kalkulator")
+a = 7
+b = 5
+c = a + b
+print(c)
